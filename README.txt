@@ -4,8 +4,6 @@ An interactive HR Analytics Dashboard built in Microsoft Power BI to analyze emp
 
 📊 Project Overview
 
-![HR_Analytics_Dashboard](Screenshots/HR_Analytics_Dashboard.png)
-
 This project transforms raw HR data into an interactive dashboard that helps HR teams and decision-makers understand their workforce and identify important trends.
 
 The dashboard provides insights into areas such as:

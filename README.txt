@@ -23,6 +23,6 @@ Data Modeling – Relationships and analytical model
 Data Visualization – Interactive charts, cards, and slicers
 🎯 Objective
 
-![HR_Analytics_Dashboard](Screenshots/HR_Analytics_Dashboard.png)
+![](Screenshots/HR_Analytics_Dashboard.png)
 
 The main objective of this project was to build a business-focused HR dashboard that converts employee data into clear, actionable insights and demonstrates practical skills in data cleaning, data modeling, DAX, and Power BI visualization.
